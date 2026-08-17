@@ -1,0 +1,12 @@
+=================================
+DISK USAGE CHECK
+=================================
+OK: / disk usage is 28%
+OK: /boot disk usage is 47%
+Disk check completed.
+
+=================================
+DISK USAGE CHECK
+=================================
+WARNING: / disk usage is 85%
+Disk check completed.
